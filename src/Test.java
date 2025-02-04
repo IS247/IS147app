@@ -3,4 +3,7 @@ public class Test {
 /// 
 /// 
 /// this is another test
+public static void main(String[] args) {
+
+}
 }
